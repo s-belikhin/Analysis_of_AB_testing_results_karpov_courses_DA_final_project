@@ -3,8 +3,7 @@
 
 ### Используемый стек:
   - Язык программирования: &nbsp;
-![Python](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white&labelColor=grey)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)
   - Библиотеки: pandas, numpy, scipy.stats (для статистического анализа), seaborn, plotly, matplotlib, os(для поиска и парсинга файлов из папки)
   - Инструменты: JupyterHub, Redash, ClikcHouse, 
 
