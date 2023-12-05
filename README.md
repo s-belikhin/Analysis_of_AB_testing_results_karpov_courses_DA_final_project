@@ -2,7 +2,9 @@
 Анализ результатов A/B–тестирования новой механики оплаты на сайте для принятия решения о внедрении её для всех пользователей.
 
 ### Используемый стек:
-Язык программирования: Python, SQL<br> 
+Язык программирования: &nbsp;
+![Python](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&labelColor=grey)<br> 
 Инструменты(библиотеки): pandas, numpy, scipy.stats (для статистического анализа), seaborn, plotly, matplotlib, os(для поиска и парсинга файлов из папки), Redash, ClikcHouse<br>
 
 ### Этапы работы:
